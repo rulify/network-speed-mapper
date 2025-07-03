@@ -18,6 +18,11 @@ Useful for:
 - Interactive map with hoverable tooltips showing speed data
 
 ---
+## Depenencies 
+- Python version: 3.11.9
+- Required packages: tkinter, Pillow (PIL), matplotlib, numpy
+
+---
 
 ## 📁 Example Input
 
