@@ -3,13 +3,13 @@
 This Python tool lets you map wireless network performance across a physical site using a site map image and CSV data. It overlays coloured, semi-transparent circles on top of your image to indicate the relative connection speed at various locations.
 
 Useful for:
-- 📍 Site surveys
-- 🛠 Network planning
-- 🧪 Signal strength analysis
+- Site surveys
+- Network planning
+- Basic signal strength analysis
 
 ---
 
-## 🔧 Features
+## Features
 
 - Load your site map image (JPG/PNG)
 - Click to place markers for each location
@@ -24,7 +24,7 @@ Useful for:
 
 ---
 
-## 📁 Example Input
+## Example Input
 
 ### CSV format
 
