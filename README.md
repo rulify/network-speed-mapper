@@ -1,4 +1,4 @@
-# 📡 Wireless Network Visualisation Tool
+# Wireless Network Visualisation Tool
 
 This Python tool lets you map wireless network performance across a physical site using a site map image and CSV data. It overlays coloured, semi-transparent circles on top of your image to indicate the relative connection speed at various locations.
 
